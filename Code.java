@@ -17,7 +17,10 @@ public class Code {
 
     public Code() {
     }
-
+    
+    public void abc{
+    }
+    
     public Code(String code, String name, int credit) {
         //this.code = code;
         this.name = name;
